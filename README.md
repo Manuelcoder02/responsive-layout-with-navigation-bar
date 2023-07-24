@@ -30,8 +30,8 @@ Users should be able to
 ![](./images/screenshots/desktop-screen.png)
 
 #### Links
-- Github Repository link -
-- Live Site link -
+- Github Repository link - [Manuelcoder02](https://github.com/Manuelcoder02/responsive-layout-with-navigation-bar)
+- Live Site link - https://responsive-layout-with-navigation-bar.vercel.app/
 
 ## Process
 
@@ -53,7 +53,7 @@ Users should be able to
 
 
 ## Author
-- Website
+- Website - [Responsive layout](https://responsive-layout-with-navigation-bar.vercel.app/)
 - Twitter - [juniorDev @sotundenuel](https://www.twitter.com/@sotundenuel)
 - Instagram - [
 - Thread -
