@@ -40,7 +40,7 @@ li {
 /* HEADER STYLING */
 
 .header {
-  background-color: #2e323f;
+  background-color: #000;
   color: #6f737f;
   padding: 1em 0;
 }
@@ -81,7 +81,7 @@ li {
   margin-top: 1em;
 }
 .secondary-nav li:nth-child(2) {
-  background-color: #a59678;
+  background-color: #4e4feb;
   width: 100px;
   margin: 0 auto;
   border-radius: 100px;
@@ -103,7 +103,7 @@ li {
 
 .hero {
   padding: 2em 0;
-  background-color: #3b4050;
+  background-color: rgba(0, 0, 0, 0.9);
 }
 .hero-title h1 {
   font-family: "Oswald";
@@ -115,7 +115,7 @@ li {
 }
 
 .color-text {
-  color: #a59678;
+  color: #068fff;
 }
 
 .hero-text p {
@@ -127,7 +127,7 @@ li {
 
 .learn {
   color: #fff;
-  background-color: #a59678;
+  background-color: #4e4feb;
   padding: 0.7em 1.5em;
   border: none;
   border-radius: 100px;
@@ -143,13 +143,13 @@ li {
 /* SECOND PAGE STYLING */
 
 .second-page {
-  background-color: #6f737f;
+  background-color: #c6ccdb;
   padding: 2em 0;
   text-align: center;
 }
 
 .second-page h2 {
-  color: #a59678;
+  color: #023047;
   font-size: 2.2em;
   padding-bottom: 0.3em;
   font-family: "Oswald";
@@ -172,7 +172,7 @@ li {
 .middle-page h2 {
   font-family: "Oswald";
   font-size: 2em;
-  color: #a59678;
+  color: #000;
   padding-bottom: 0.5em;
 }
 .middle-page img {
@@ -184,7 +184,7 @@ li {
 }
 
 .block {
-  background-color: #3b4050;
+  background-color: rgba(0, 0, 0, 0.9);
   padding: 1em;
   color: #fff;
   text-align: center;
@@ -203,7 +203,7 @@ li {
 
 /* FOOTER PAGE STYLING */
 .footer {
-  background-color: #2e323f;
+  background-color: rgba(0, 0, 0, 0.9);
   padding: 2em 0;
 }
 
@@ -225,7 +225,7 @@ li {
 }
 
 .footer h4 {
-  color: #a59678;
+  color: #fff;
   font-size: 1.7em;
   font-family: "Oswald";
 }
@@ -276,7 +276,7 @@ li {
     margin-left: 1.2em;
   }
   .secondary-nav li:nth-child(2) {
-    background-color: #a59678;
+    background-color: #4e4feb;
     width: 100px;
     margin: 0 auto;
     border-radius: 100px;
